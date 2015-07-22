@@ -1,0 +1,1 @@
+# atom-copy-path
