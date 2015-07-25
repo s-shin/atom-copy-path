@@ -4,7 +4,7 @@ Copy a file path flexibly!
 
 ## Context Menu on Tabs
 
-![capture](capture.png)
+![capture](https://raw.githubusercontent.com/s-shin/atom-copy-path/master/capture.png)
 
 ## Command Pallete
 
