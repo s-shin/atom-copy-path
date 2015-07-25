@@ -1,0 +1,22 @@
+{
+  "name": "copy-path",
+  "version": "0.0.0",
+  "description": "Copy file paths in variable styles.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-shin/atom-copy-path.git"
+  },
+  "author": "Shintaro Seki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-shin/atom-copy-path/issues"
+  },
+  "homepage": "https://github.com/s-shin/atom-copy-path#readme",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
+}
