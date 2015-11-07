@@ -38,6 +38,17 @@ menu: [
   }
 ]
 "context-menu":
+  "atom-text-editor": [
+    {
+      label: "Copy Path"
+      submenu: [
+        {
+          label: "Copy Line Reference"
+          command: "copy-path:copy-line-reference"
+        }
+      ]
+    }
+  ]
   ".tab": [
     {
       label: "Copy Path"
