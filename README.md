@@ -2,13 +2,13 @@
 
 Copy a file path flexibly!
 
-## Context Menu on Tabs
+## Context Menu on a Tab
 
 ![capture](https://raw.githubusercontent.com/s-shin/atom-copy-path/master/capture.png)
 
-## Command Pallete
+## Command Palette
 
-The path of the active text editor is target.
+The path of the active text editor is copied.
 
 * `copy-path:copy-basename`
 * `copy-path:copy-extension`
@@ -18,6 +18,7 @@ The path of the active text editor is target.
 * `copy-path:copy-base-dirname`
 * `copy-path:copy-project-relative-dirname`
 * `copy-path:copy-full-dirname`
+* `copy-path:copy-line-reference`
 
 ## License
 
