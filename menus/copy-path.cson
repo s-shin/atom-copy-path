@@ -1,41 +1,44 @@
 menu: [
-  {
-    label: "Copy Path"
-    submenu: [
-      {
-        label: "Copy Basename"
-        command: "copy-path:copy-basename"
-      }
-      {
-        label: "Copy Extension"
-        command: "copy-path:copy-extension"
-      }
-      {
-        label: "Copy Basename w/o Extension"
-        command: "copy-path:copy-basename-wo-extension"
-      }
-      {
-        label: "Copy Project-Relative Path"
-        command: "copy-path:copy-project-relative-path"
-      }
-      {
-        label: "Copy Full Path"
-        command: "copy-path:copy-full-path"
-      }
-      {
-        label: "Copy Base Dirname"
-        command: "copy-path:copy-base-dirname"
-      }
-      {
-        label: "Copy Project-Relative Dirname"
-        command: "copy-path:copy-project-relative-dirname"
-      }
-      {
-        label: "Copy Full Dirname"
-        command: "copy-path:copy-full-dirname"
-      }
-    ]
-  }
+  label: "Packages"
+  submenu: [
+    {
+      label: "Copy Path"
+      submenu: [
+        {
+          label: "Copy Basename"
+          command: "copy-path:copy-basename"
+        }
+        {
+          label: "Copy Extension"
+          command: "copy-path:copy-extension"
+        }
+        {
+          label: "Copy Basename w/o Extension"
+          command: "copy-path:copy-basename-wo-extension"
+        }
+        {
+          label: "Copy Project-Relative Path"
+          command: "copy-path:copy-project-relative-path"
+        }
+        {
+          label: "Copy Full Path"
+          command: "copy-path:copy-full-path"
+        }
+        {
+          label: "Copy Base Dirname"
+          command: "copy-path:copy-base-dirname"
+        }
+        {
+          label: "Copy Project-Relative Dirname"
+          command: "copy-path:copy-project-relative-dirname"
+        }
+        {
+          label: "Copy Full Dirname"
+          command: "copy-path:copy-full-dirname"
+        }
+      ]
+    }
+  ]
 ]
 "context-menu":
   "atom-text-editor": [
