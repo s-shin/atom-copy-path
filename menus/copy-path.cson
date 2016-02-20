@@ -36,6 +36,10 @@ menu: [
           label: "Copy Full Dirname"
           command: "copy-path:copy-full-dirname"
         }
+        {
+          label: "Copy Project-Relative Path for Web"
+          command: "copy-path:copy-project-relative-path-web"
+        }
       ]
     }
   ]
@@ -87,6 +91,10 @@ menu: [
         {
           label: "Copy Full Dirname"
           command: "copy-path:copy-full-dirname"
+        }
+        {
+          label: "Copy Project-Relative Path for Web"
+          command: "copy-path:copy-project-relative-path-web"
         }
       ]
     }
