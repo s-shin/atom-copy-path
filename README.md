@@ -19,6 +19,7 @@ The path of the active text editor is copied.
 * `copy-path:copy-project-relative-dirname`
 * `copy-path:copy-full-dirname`
 * `copy-path:copy-line-reference`
+* `copy-path:copy-project-relative-path-web` (windows only)
 
 ## License
 
