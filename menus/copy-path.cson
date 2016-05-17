@@ -89,5 +89,8 @@ menu: [
           command: "copy-path:copy-full-dirname"
         }
       ]
+    },
+    {
+      "type": "separator"
     }
   ]
