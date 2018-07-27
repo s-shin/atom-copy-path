@@ -2,6 +2,8 @@
 
 Copy a file path flexibly!
 
+Always in Unix format: `/path/to/file`, even if running on Windows.
+
 ## Context Menu on a Tab
 
 ![capture](https://raw.githubusercontent.com/s-shin/atom-copy-path/master/capture.png)
